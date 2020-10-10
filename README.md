@@ -16,10 +16,10 @@ Clone the repository
 git clone https://github.com/KaSTUBH/Farmeazy.github.io.git
 ```
 <!-- PREREQUISITES-->
-### Prerequisites
+## Prerequisites
 Install Node from https://nodejs.org/en/download/
 <!-- INSTALLATION -->
-### Installation
+## Installation
 Install the dependencies
 ```sh
 npm install
@@ -33,7 +33,7 @@ npm install -g truffle@5.0.5
 Install Ganache from  https://www.trufflesuite.com/ganache
 
 <!-- RUNNING THE APP -->
-### Running the app
+## Running the app
 Start A ganache workspace
 
 Add the Custom RPC URL given in ganache to Metamask
