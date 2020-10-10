@@ -15,6 +15,7 @@ Clone the repository
 ```sh
 git clone https://github.com/KaSTUBH/Farmeazy.github.io.git
 ```
+### Prerequisites
 *Install Node from https://nodejs.org/en/download/
 
 *Install the dependencies
