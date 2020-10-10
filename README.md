@@ -9,12 +9,24 @@ This section should list any major frameworks that you built your project using.
 * [Metamask](https://metamask.io/)
 
 
-##Before running the code
+<!-- GETTING STARTED -->
+## Getting Started
 Clone the repository
 ```sh
 git clone https://github.com/KaSTUBH/Farmeazy.github.io.git
 ```
-Install the dependencies
+*Install Node from https://nodejs.org/en/download/
+
+*Install the dependencies
 ```sh
-git clone https://github.com/KaSTUBH/Farmeazy.github.io.git
+npm install
 ```
+*Install Metamask extension for chrome from metamask.io
+
+
+*Install Truffle
+```sh
+npm install -g truffle@5.0.5
+```
+*Install Ganache from  https://www.trufflesuite.com/ganache
+
