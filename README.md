@@ -34,7 +34,7 @@ Install Ganache from  https://www.trufflesuite.com/ganache
 
 <!-- RUNNING THE APP -->
 ## Running the app
-![Image of the Project]()
+![Image of the Project](https://KaSTUBH.github.com/public/RunningSnapshot.jpg)
 Start A ganache workspace
 
 Add the Custom RPC URL given in ganache to Metamask
